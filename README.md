@@ -9,16 +9,6 @@ Repositori ini berisi proyek **Analisis Sentimen (Sentiment Analysis)** pada ula
 
 ---
 
-## 📌 Daftar Isi
-- [Gambaran Proyek](#-gambaran-proyek)
-- [Dataset](#-dataset)
-- [Alur Kerja (Workflow)](#-alur-kerja-workflow)
-- [Teknologi & Library](#-teknologi--library)
-- [Cara Penggunaan](#-cara-penggunaan)
-- [Lisensi](#-lisensi)
-
----
-
 ## 🎯 Gambaran Proyek
 Tujuan utama dari proyek ini adalah untuk memahami sentimen pemain (positif, negatif, atau netral) terhadap game Theo Town berdasarkan ulasan mereka di Play Store. Model *machine learning* dilatih untuk secara otomatis mengklasifikasikan sentimen dari ulasan baru yang masuk.
 
